@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="jenkinstest.jenkinstest.Test1" duration-ms="102" started-at="2018-09-04T11:14:28Z" finished-at="2018-09-04T11:14:28Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="102" started-at="2018-09-04T11:14:28Z" finished-at="2018-09-04T11:14:28Z">
+      <class name="jenkinstest.jenkinstest.Test1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:jenkinstest.jenkinstest.Test1@668bc3d5]" name="setup" is-config="true" duration-ms="20" started-at="2018-09-04T16:44:28Z" finished-at="2018-09-04T16:44:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:jenkinstest.jenkinstest.Test1@668bc3d5]" name="test1" duration-ms="8" started-at="2018-09-04T16:44:28Z" finished-at="2018-09-04T16:44:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:jenkinstest.jenkinstest.Test1@668bc3d5]" name="teardown" is-config="true" duration-ms="1" started-at="2018-09-04T16:44:28Z" finished-at="2018-09-04T16:44:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:jenkinstest.jenkinstest.Test1@668bc3d5]" name="setup" is-config="true" duration-ms="0" started-at="2018-09-04T16:44:28Z" finished-at="2018-09-04T16:44:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:jenkinstest.jenkinstest.Test1@668bc3d5]" name="test2" duration-ms="1" started-at="2018-09-04T16:44:28Z" finished-at="2018-09-04T16:44:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:jenkinstest.jenkinstest.Test1@668bc3d5]" name="teardown" is-config="true" duration-ms="0" started-at="2018-09-04T16:44:28Z" finished-at="2018-09-04T16:44:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- jenkinstest.jenkinstest.Test1 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- jenkinstest.jenkinstest.Test1 -->
+</testng-results>
